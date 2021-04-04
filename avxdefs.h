@@ -49,7 +49,7 @@
 // needed.
 
 #include <inttypes.h>
-#include <immintrin.h>
+#include <arm_neon.h>
 #include <memory.h>
 #include <stdbool.h>
 
