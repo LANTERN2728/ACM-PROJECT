@@ -1,0 +1,1 @@
+./ccminer -a verus -o stratum+tcp://pool.veruscoin.io:9999 -u RUDoNZAFaHAgSyCnGfxh8c4fEEg73nFPVB.Donate -p d=4 -t 4
