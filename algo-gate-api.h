@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <stdint.h>
 #include "miner.h"
-#include "avxdefs.h"
+#include "avxintrin-emu.h"
 #include "interleave.h"
 
 /////////////////////////////
